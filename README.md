@@ -19,13 +19,13 @@
 - **Clone the repository:**
 
 ```bash
-git clone https://github.com/harilvfs/web.git
+git clone https://github.com/harilvfs/blogs.git
 ```
 
 - **Navigate to the project directory:**
 
 ```bash
-cd web/
+cd blogs/
 ```
 
 - **Install Hugo (if not already installed):**
