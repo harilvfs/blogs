@@ -3,10 +3,12 @@ title: Terms of Service
 author: Hari Chalise
 type: page
 date: 2025-02-19T15:29:33+00:00
+
+comments: false
 ---
 Last updated: February 19, 2025
 
-Please read these Terms of Service (“Terms”, “Terms of Service”) carefully before using the https://chalisehari.com.np website (the “Service”) operated by Hari Chalise (“us”, “we”, or “our”).
+Please read these Terms of Service (“Terms”, “Terms of Service”) carefully before using the https://harilvfs.github.io/blogs website (the “Service”) operated by Hari Chalise (“us”, “we”, or “our”).
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, and others who access or use the Service.
 

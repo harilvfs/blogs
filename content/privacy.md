@@ -3,14 +3,16 @@ title: Privacy Policy of Hari Chalise
 author: Hari Chalise
 type: page
 date: 2025-02-19T15:25:58+00:00
+
+comments: false
 ---
-Hari Chalise operates the https://chalisehari.com.np website, which provides the SERVICE.
+Hari Chalise operates the https://harilvfs.github.io/blogs website, which provides the SERVICE.
 
 This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decides to use our Service, the Hari Chalise website.
 
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at https://chalisehari.com.np, unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at https://harilvfs.github.io/blogs, unless otherwise defined in this Privacy Policy.
 
 ## Information Collection and Use
 

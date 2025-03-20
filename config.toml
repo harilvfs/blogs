@@ -108,10 +108,10 @@ enabled = true
 provider = "giscus"
 
 [params.comments.giscus]
-repo = "harilvfs/web"
-repoID = "R_kgDOM5vgZw"
+repo = "harilvfs/blogs"
+repoID = "R_kgDOOF-vfg"
 category = "General"
-categoryID = "DIC_kwDOM5vgZ84CnFAm"
+categoryID = "DIC_kwDOOF-vfs4CoQ50"
 mapping = "pathname"
 strict = false
 reactionsEnabled = 1
