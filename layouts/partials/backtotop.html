@@ -6,12 +6,10 @@
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const backToTop = document.getElementById('back-to-top');
-  const scrollThreshold = 300; // Show button after scrolling this many pixels
+  const scrollThreshold = 300; 
   
-  // Check scroll position on page load
   checkScrollPosition();
   
-  // Listen for scroll events
   window.addEventListener('scroll', checkScrollPosition);
   
   function checkScrollPosition() {
@@ -22,7 +20,6 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   }
   
-  // Smooth scroll to top when clicked
   backToTop.addEventListener('click', function() {
     window.scrollTo({
       top: 0,
@@ -33,7 +30,6 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 <style>
-/* Back to Top Button Styling */
 #back-to-top {
   position: fixed;
   bottom: 25px;
@@ -78,7 +74,6 @@ document.addEventListener('DOMContentLoaded', function() {
   transform: translateY(-1px);
 }
 
-/* Add a subtle pulse animation when the button first appears */
 @keyframes pulse {
   0% { box-shadow: 0 0 0 0 rgba(71, 196, 241, 0.7); }
   70% { box-shadow: 0 0 0 6px rgba(71, 196, 241, 0); }
@@ -89,7 +84,6 @@ document.addEventListener('DOMContentLoaded', function() {
   animation: pulse 2s infinite;
 }
 
-/* Responsive adjustments */
 @media (max-width: 768px) {
   #back-to-top {
     width: 36px;
