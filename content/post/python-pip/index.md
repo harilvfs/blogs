@@ -51,9 +51,9 @@ A virtual environment allows you to create an isolated Python environment, preve
 ## Handling `pip` Errors
 If you encounter errors when using `pip`, it may be due to missing dependencies or conflicts with system packages. Some common errors include:
 
-- **Command Not Found**: Ensure `python-ensurepip` is installed:
+- **Command Not Found**: Ensure `python-pip` is installed:
   ```bash
-  sudo pacman -S python-ensurepip
+  sudo pacman -S python-pip
   ```
 
 - **SSL Errors**: Some systems may require certificates to be installed:
